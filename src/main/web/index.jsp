@@ -1,6 +1,6 @@
 <%--
   Created by IntelliJ IDEA.
-  pro.entity.User: paul
+  pro.com.entity.User: paul
   Date: 2017/6/30
   Time: 15:25
   To change this template use File | Settings | File Templates.

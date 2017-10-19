@@ -1,4 +1,4 @@
-package pro.entity;
+package pro.com.entity;
 
 
 import org.apache.ibatis.type.Alias;
