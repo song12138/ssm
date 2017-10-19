@@ -1,6 +1,7 @@
 package pro.service;
 
-import pro.entity.User;
+
+import pro.com.entity.User;
 
 import java.util.List;
 
