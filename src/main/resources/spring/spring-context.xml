@@ -64,7 +64,7 @@
 
 
 
-    <context:component-scan base-package="pro,common">
+    <context:component-scan base-package="common,pro">
         <context:include-filter type="annotation" expression="common.annotation.MybatisDao"/>
     </context:component-scan>
 
